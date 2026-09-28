@@ -30,7 +30,9 @@ The ecosystem is under active development, with new functionality and public tec
 ## Public Resources
 
 📘 **Project Repository:** [PaxorOfficial/paxor](https://github.com/PaxorOfficial/paxor)
+
 🛡️ **Security Policy:** [PaxorOfficial/paxor/SECURITY.md](https://github.com/PaxorOfficial/paxor/blob/main/SECURITY.md)
+
 🌐 **Official Website:** https://paxor.pro
 
 ## Founder & Developer
